@@ -1,1 +1,1 @@
-Do Try Your OWN to do
+echo "happy hacktoberfest."
